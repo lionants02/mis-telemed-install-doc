@@ -6,7 +6,7 @@
   * [การตั้งค่า ip-address](panel_pc/ip-address/ip-address.md)
   * [การติดตั้ง Anydesk](panel_pc/anydesk/anydesk.md)
   * [การติดตั้ง Med-info](panel_pc/med-info-exe/med-info.md)
-  * ติดตั้ง OBS
+  * [ติดตั้ง OBS](panel_pc/obs/obs.md)
   * ตั้งค่าเสียงแบบดังๆ
   * การติดตั้ง VLC
 * การตั้งค่าระบบกล้อง
