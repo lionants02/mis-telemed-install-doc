@@ -8,7 +8,7 @@
   * [การติดตั้ง Med-info](panel_pc/med-info-exe/med-info.md)
   * [ติดตั้ง OBS](panel_pc/obs/obs.md)
   * ตั้งค่าเสียงแบบดังๆ
-  * การติดตั้ง VLC
+  * [การติดตั้ง VLC](panel_pc/vlc/vlc.md)
   * การตั้งการให้เครื่องเปิดอัตโนมัติ
 * การตั้งค่าระบบกล้อง
   * รายละเอียด ip-address กล้อง ip camera 2 ตัว
