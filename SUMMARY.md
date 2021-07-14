@@ -7,9 +7,8 @@
   * [การติดตั้ง Anydesk](panel_pc/anydesk/anydesk.md)
   * [การติดตั้ง Med-info](panel_pc/med-info-exe/med-info.md)
   * [ติดตั้ง OBS](panel_pc/obs/obs.md)
-  * ตั้งค่าเสียงแบบดังๆ
   * [การติดตั้ง VLC](panel_pc/vlc/vlc.md)
-  * การตั้งการให้เครื่องเปิดอัตโนมัติ
+  * [การตั้งการให้เครื่องเปิดอัตโนมัติ](panel_pc/auto_poweron/auto.md)
 * การตั้งค่าระบบกล้อง
   * รายละเอียด ip-address กล้อง ip camera 2 ตัว
   * การตั้งค่า Body camera เพื่อให้ใช้งานระบบได้
