@@ -1,1 +1,4 @@
-# mis-telemed-install-doc
+# คู่มืออ้างอิงการตั้งค่าระบบ Telemed เบื้องต้น
+
+\*\*\*\*[**ไปหน้า การตั้งค่า และ การติดตั้งโปรแกรมภายในรถ**](https://thanachai.gitbook.io/telemed/v/main/setup)\*\*\*\*
+
