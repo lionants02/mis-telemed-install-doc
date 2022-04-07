@@ -2,20 +2,14 @@
 การติดตั้ง Med-Info สำหรับ Panel PC  
 
   Download ไฟล์ติดตั้งที่ link
-    - link หลัก https://s.hii.in.th/minfo  
-    `https://s.hii.in.th/minfo`  
-    - link สำรองถ้าอันบนไม่ได้ https://s.hii.in.th/minfo2  
-    `https://s.hii.in.th/minfo2`  
+    - link หลัก https://s.hii.in.th/mispc  
+    `https://s.hii.in.th/mispc`  
 
-เปิด Internet Browser ขึ้นมาแล้วใส่ link `s.hii.in.th/minfo` ลงในช่องแล้วกด Enter  
+เปิด Internet Browser ขึ้นมาแล้วใส่ link `s.hii.in.th/mispc` ลงในช่องแล้วกด Enter  
 
 ![icon Microsoft Edge](image/0.png)  
 
-![ใส่ link s.hii.in.th/minfo ลงในช่องแล้วกด Enter](image/1.png)  
-
 คลิกที่ `D1669-Med-Info-Setup` เพื่อทำการ Download  
-
-![คลิกที่ D1669-Med-Info-Setup](image/2.png)  
 
 คลิก `Save`  
 
